@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen: gradient background + centered logo -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/splash_gradient" />
+
+    <!-- Center the logo on the splash. Swap @drawable/logo for your asset. -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_logo" />
+    </item>
+</layer-list>

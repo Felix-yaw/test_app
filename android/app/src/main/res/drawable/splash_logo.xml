@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Splash screen logo placeholder.
+  Replace this vector (or point launch_background.xml at your own drawable)
+  with the actual logo SVG converted to an Android vector drawable.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,15 L105,105 L60,85 L15,105 Z" />
+</vector>
